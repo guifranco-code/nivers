@@ -1,0 +1,6 @@
+{
+  "name": "NiverHub - Gerenciador de Aniversários",
+  "description": "Sistema completo de cadastro e lembrete de datas de aniversário com integração direta ao Supabase, contagem regressiva e envio de felicitações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
